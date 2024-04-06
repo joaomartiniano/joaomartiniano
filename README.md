@@ -41,6 +41,7 @@ A maioria do meu trabalho prende-se com educação e a formação de professores
 ### YouTube
 
 **[Introdução ao Git e GitHub](https://www.youtube.com/playlist?list=PLxG9jJiiFxh1_pdhTiPWv2ONvsLfxWEtU)**
+
 Curso de formação composto por 13 vídeos e que fornece uma introdução ao controle de versões utilizando o software Git e GitHub Desktop, bem como a plataforma GitHub
 
 [![Introdução ao Git e GitHub](img/formacao-git-github.webp)](https://www.youtube.com/playlist?list=PLxG9jJiiFxh1_pdhTiPWv2ONvsLfxWEtU)
