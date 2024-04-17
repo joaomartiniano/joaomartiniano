@@ -21,6 +21,10 @@ A maioria do meu trabalho prende-se com educação e a formação de professores
 
 ### Repositórios de âmbito educativo / *repositories used in teaching*
 
+- [Trabalho Prático: Mars Rover](https://github.com/joaomartiniano/trabalho-mars-rover): Código inicial e enunciado para um trabalho prático na linguagem C# no qual os alunos deverão simular um rover na superfície do planeta Marte, e no qual o rover recebe e armazena comandos numa estrutura de dados ```Queue```
+- [Trabalho Prático: Quiz](https://github.com/joaomartiniano/trabalho-quiz): Código inicial e enunciado para um trabalho prático na linguagem C# no qual os alunos deverão implementar um jogo tipo quiz
+- [Stack1](https://github.com/joaomartiniano/Stack1): Exercícios sobre a estrutura de dados ```Stack``` na linguagem C#, devendo os alunos completar o código em falta
+- [Queue1](https://github.com/joaomartiniano/Queue1): Exercícios sobre a estrutura de dados ```Queue``` na linguagem C#, devendo os alunos completar o código em falta
 - [Desafio de programação Páscoa 2024](https://joaomartiniano.github.io/desafio-programacao-pascoa-2024/): Simulação em C# de uma bola em movimento na consola
 - [Arrays1](https://github.com/joaomartiniano/Arrays1), [Arrays2](https://github.com/joaomartiniano/Arrays2), [Arrays3](https://github.com/joaomartiniano/Arrays3): Exercícios sobre arrays na linguagem C#, devendo os alunos completar o código em falta
 - [Exemplo de criação de uma exceção](https://github.com/joaomartiniano/exemplo-criar-excecao): Exemplifica a criação de uma exceção na linguagem C# 
