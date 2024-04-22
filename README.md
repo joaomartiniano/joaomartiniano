@@ -23,6 +23,7 @@ A maioria do meu trabalho prende-se com educação e a formação de professores
 
 - [Trabalho Prático: Mars Rover](https://github.com/joaomartiniano/trabalho-mars-rover): Código inicial e enunciado para um trabalho prático na linguagem C# no qual os alunos deverão simular um rover na superfície do planeta Marte, e no qual o rover recebe e armazena comandos numa estrutura de dados ```Queue```
 - [Trabalho Prático: Quiz](https://github.com/joaomartiniano/trabalho-quiz): Código inicial e enunciado para um trabalho prático na linguagem C# no qual os alunos deverão implementar um jogo tipo quiz
+- [Ficha de Trabalho: Gestor de Utilizadores](https://github.com/joaomartiniano/Ficha-Gestor-Utilizadores): Ficha de trabalho na qual os alunos deverão implementar uma estrutura ```Dictionary<>```
 - [Ficha de Trabalho: Gestor de SMS](https://github.com/joaomartiniano/Ficha-Gestor-SMS): Ficha de trabalho na qual os alunos deverão implementar uma estrutura ```List<>```
 - [Stack1](https://github.com/joaomartiniano/Stack1): Exercícios sobre a estrutura de dados ```Stack``` na linguagem C#, devendo os alunos completar o código em falta
 - [Queue1](https://github.com/joaomartiniano/Queue1): Exercícios sobre a estrutura de dados ```Queue``` na linguagem C#, devendo os alunos completar o código em falta
